@@ -1,5 +1,5 @@
-# IGNORECASE��0�ɂ��Ă���̂ŁA�啶���������͋�ʂ���A
-# ���̏ꍇ�͏������Ƀ}�b�`�����ꍇ�Ɉ�s�o�͂���B
+﻿# IGNORECASEを0にしているので、大文字小文字は区別され、
+# この場合は小文字にマッチした場合に一行出力する。
 BEGIN{
     IGNORECASE = 0;
 }

@@ -1,5 +1,5 @@
-# IGUNORECASE��1�ɂ��đ啶���������̋�ʂ����Ȃ��l�ɂ��Ă���B
-# ��ʂ��鎞�͋L�q���폜���邩0�ɂ���B
+﻿# IGUNORECASEを1にして大文字小文字の区別をしない様にしている。
+# 区別する時は記述を削除するか0にする。
 BEGIN{
     IGNORECASE = 1;
 }
